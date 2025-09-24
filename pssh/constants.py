@@ -26,3 +26,6 @@ connections et al."""
 
 RETRY_DELAY = 5
 """Default delay in seconds between retry attempts for SSH client initialisation."""
+CHUN-test_pssh_client_override_allow_agent_authentication CA_HOST_KEY
+CA_HOST_KEY002 SSHError[90900800] 
+REDE GLOBO REDE SBT 
